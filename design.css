@@ -1,0 +1,109 @@
+body {
+	background-color: #2c3e50; 
+}
+body.home {
+	background-color: transparent;
+}
+.jumbotron.welcome {
+	background-color: teal;
+	margin: 2% 20% 2% 20%;
+	height: relative;
+	max-height: 760px;
+	border-radius: 30px!important;
+	color: #fff;
+}
+
+.extra {
+	margin: 20%;
+}
+hr{
+	width:100%!important;
+	size: 200%;
+}
+.new {
+	background-color:  #e74c3c;
+	border: solid 3px #fff;
+	color: #fff;
+	font-size: 15px;
+	padding: 5% 12% 5% 12%;
+
+}
+.new:hover{
+	border: solid 3px #fff;
+	background-color: #c0392b;
+	color: #fff;
+}
+.new:active {
+	border: solid #fff 3px!important;
+	background-color: #c0392b!important;
+	color: #fff!important;
+}
+.title {
+	font-size: 96px!important;
+	color: #fff;
+}
+.landing {
+	text-align: center;
+	margin: 25%;
+	color: #fff;
+	padding-top: -20%;
+
+}
+p {
+	font-size: 30px!important;
+}
+.bg {
+	background-color: teal;
+	max-height: 1000px;
+}
+.jumbotron.info {
+	background-color: #fff;
+	color:#2c3e50;
+}
+.jumbotron.comparison {
+	background-color: #34495e;
+	color: #fff;
+	margin-bottom: 0px;
+	padding: 20% 0% 20% 0%;
+	border: 1px #fff!important;
+}
+.jumbotron.header {
+	background-color: #FD7272;
+	color:#000;
+	margin-top:20%;
+	margin-bottom: 20%;
+}
+.info {
+	background-color: #000;
+	color: #fff;
+	border: solid 1px #fff;
+}
+.encryption {
+	font-size: 40px;
+	height: relative;
+}
+.dev, .dev:hover , .dev:active{
+	font-size: 40px!important;
+	background-color: transparent!important;
+	border: none!important;
+}
+.person {
+	width: 200px;
+	height: 200px;
+}
+.footer {
+	height: relative;
+	padding: 5px;
+	margin-bottom:0px!important;
+	background-color: teal;
+	color:#fff;
+}
+.footer .link {
+	color: white;
+	border: 2px solid #fff;
+	padding: 2px 4px 2px 4px;
+}
+.footer .link:hover {
+	color: teal;
+	background-color: #fff;
+}
